@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Login to Zoom on the Web](README.md)
+* [Introduction](README.md)
+* [Login to Zoom on the Web](login-to-zoom-on-the-web.md)
 * [Login to Zoom on macOS](login-to-zoom-on-macos.md)
 
 ## Email
