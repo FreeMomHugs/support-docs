@@ -1,2 +1,2 @@
-# Login to Zoom on macOS
+# Login to Zoom on the Web
 
