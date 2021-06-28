@@ -10,5 +10,3 @@ You'll be redirected to a Google sign-in page \(or an account selector\), select
 
 ![](.gitbook/assets/screen-shot-2021-06-28-at-12.33.17-pm.png)
 
-
-
