@@ -8,15 +8,15 @@ If you don't already have Zoom installed, you can download it here: [https://fre
 
 Open the Zoom application and click "Sign In"
 
-![](.gitbook/assets/screen-shot-2021-06-28-at-12.40.38-pm%20%281%29%20%281%29.png)
+![](../.gitbook/assets/screen-shot-2021-06-28-at-12.40.38-pm.png)
 
 Select "SSO" from the sign-in options presented
 
-![](.gitbook/assets/screen-shot-2021-06-28-at-12.41.13-pm.png)
+![](../.gitbook/assets/screen-shot-2021-06-28-at-12.41.13-pm%20%281%29.png)
 
 When prompted, enter **freemomhugs** for the company domain.
 
-![](.gitbook/assets/screen-shot-2021-06-28-at-12.50.24-pm.png)
+![](../.gitbook/assets/screen-shot-2021-06-28-at-12.50.24-pm%20%281%29.png)
 
 Click "**Continue**"
 
@@ -24,9 +24,9 @@ You will be taken to a Google sign-in/account selection page, select your enter 
 
 After signing in/selecting your account, you'll be redirected to Launch Zoom, if you see a warning diaglog asking if you want to open "zoom.us" select Allow.
 
-![](.gitbook/assets/screen-shot-2021-06-28-at-12.54.57-pm.png)
+![](../.gitbook/assets/screen-shot-2021-06-28-at-12.54.57-pm%20%281%29.png)
 
 You're now signed into Zoom.
 
-![](.gitbook/assets/screen-shot-2021-06-28-at-12.54.47-pm.png)
+![](../.gitbook/assets/screen-shot-2021-06-28-at-12.54.47-pm%20%281%29.png)
 

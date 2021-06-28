@@ -4,9 +4,9 @@
 
 To login to Zoom using a web browser, visit [https://freemomhugs.zoom.us](https://freemomhugs.zoom.us) in your web browser and select "Login to Zoom"
 
-![Free Mom Hugs Zoom landing page](.gitbook/assets/screen-shot-2021-06-28-at-12.33.12-pm.png)
+![Free Mom Hugs Zoom landing page](https://github.com/FreeMomHugs/support-docs/tree/be28dad8d3c6725f5c12853f18f1470e803555b6/zoom/.gitbook/assets/screen-shot-2021-06-28-at-12.33.12-pm.png)
 
 You'll be redirected to a Google sign-in page \(or an account selector\), select or enter your Free Mom Hugs email.
 
-![](.gitbook/assets/screen-shot-2021-06-28-at-12.33.17-pm.png)
+![](https://github.com/FreeMomHugs/support-docs/tree/be28dad8d3c6725f5c12853f18f1470e803555b6/zoom/.gitbook/assets/screen-shot-2021-06-28-at-12.33.17-pm.png)
 
