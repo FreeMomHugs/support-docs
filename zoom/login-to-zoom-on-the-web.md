@@ -1,12 +1,20 @@
+---
+description: Step by step instructions on how to get into your zoom account from the web.
+---
+
 # Login to Zoom on the Web
 
 ## Logging in from the Web
 
 To login to Zoom using a web browser, visit [https://freemomhugs.zoom.us](https://freemomhugs.zoom.us) in your web browser and select "Login to Zoom"
 
-![Free Mom Hugs Zoom landing page](https://github.com/FreeMomHugs/support-docs/tree/be28dad8d3c6725f5c12853f18f1470e803555b6/zoom/.gitbook/assets/screen-shot-2021-06-28-at-12.33.12-pm.png)
+![](../.gitbook/assets/web_zoom_login.jpg)
 
-You'll be redirected to a Google sign-in page \(or an account selector\), select or enter your Free Mom Hugs email.
+From here, you can click on 'Login to Zoom button to log into your account. 
 
-![](https://github.com/FreeMomHugs/support-docs/tree/be28dad8d3c6725f5c12853f18f1470e803555b6/zoom/.gitbook/assets/screen-shot-2021-06-28-at-12.33.17-pm.png)
+![Select your Free Mom Hug account if you have multiple accounts](../.gitbook/assets/googleacct.jpg)
+
+The screen will refresh to show the home page for zoom.  From this page, you can view upcoming or previous meetings you have created, as well as information about your personal room and various other functions. 
+
+![](../.gitbook/assets/zoom.jpg)
 
